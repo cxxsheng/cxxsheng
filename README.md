@@ -5,6 +5,11 @@ Hi there 👋 I'm Sheng Cao. I'm currently a PhD candidate in Cyberspace Securit
 - Android: CVE-2024-49744, CVE-2025-0076, CVE-2025-32312, CVE-2025-26456, CVE-2025-48535, CVE-2025-48554		
 - Huawei: CVE-2025-31175
 
+### Publications
+**Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**  
+Sheng Cao, Hao Zhou, Songzhou Shi, Yanjie Zhao, and Haoyu Wang*  
+*ACM CCS 2025*
+
 ### Research Interests
 
 - Android Framework Vulnerability Discovery
